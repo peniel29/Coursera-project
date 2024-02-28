@@ -11,7 +11,7 @@ box-sizing: border-box;
 			
     }
     .section{
-      float: left;
+      float: right;
       margin: 10px;
       width: calc(33.3333% - 20px);
       position: relative;
@@ -23,7 +23,7 @@ box-sizing: border-box;
       
 
       .section-title{
-      	position: absolute;
+      	position: relative;
         top: 0;
         right: 0;
         margin: 0;
